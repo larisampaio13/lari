@@ -1,17 +1,17 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'moda',
+    'O que é um croqui'
+    'esboço a mão de pintura,desenho,planta ou projeto'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Espanha?',
+    'A capital da Espanha é Madri'
 )
 
 criaCartao(
-    'Programação',
+    '',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
