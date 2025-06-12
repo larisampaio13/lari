@@ -1,6 +1,6 @@
 criaCartao(
     'moda',
-    'O que é um croqui'
+    'O que é um croqui?'
     'esboço a mão de pintura,desenho,planta ou projeto'
 )
 
